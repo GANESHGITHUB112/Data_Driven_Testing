@@ -1,6 +1,7 @@
 # Data-Driven Testing Framework using Selenium and TestNG
 
-![Testing](https://www.testing-whiz.com/sites/default/files/selenium-webdriver-banner.jpg)
+
+  <a href="https://ibb.co/CWnf9bF"><img src="https://i.ibb.co/SJKzmtp/Screenshot-95.png" alt="Screenshot-95" border="0"></a><br />
 
 ## Project Description
 This project is a robust automation testing framework built using Selenium WebDriver and TestNG. It supports data-driven testing, allowing test data to be driven from external sources such as Excel files. The framework also includes comprehensive reporting using ExtentReports.
@@ -47,8 +48,8 @@ src
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/GANESHGITHUB112/Data_Driven_Testing.git
+   cd Data_Driven_Testing
    ```
 ### Running the Tests
 1. Update the Excel file path: Ensure the Excel file path is correctly specified in the Excelutilitty class.
